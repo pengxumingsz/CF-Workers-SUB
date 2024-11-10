@@ -22,6 +22,18 @@ vless://98caf934-d51f-47d3-89ec-09ea781839c2@visa.cn:443?encryption=none&securit
 trojan://amclubs2024@103.160.204.26:2053?security=tls&sni=sub.trojan.amclubs.us.kg&fp=randomized&type=ws&host=sub.trojan.amclubs.us.kg&path=%2F%3Fed%3D2560#%F0%9F%87%AD%F0%9F%87%B0%20HK
 vless://98caf934-d51f-47d3-89ec-09ea781839c2@104.17.128.1:2096?encryption=none&security=tls&sni=vless.amclubss.us.kg&fp=randomized&type=ws&host=vless.amclubss.us.kg&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20US
 trojan://amclubs2024@61.220.65.189:26832?security=tls&sni=sub.trojan.amclubs.us.kg&fp=randomized&type=ws&host=sub.trojan.amclubs.us.kg&path=%2F%3Fed%3D2560#%F0%9F%87%BC%F0%9F%87%B8%20TW
+vless://98caf934-d51f-47d3-89ec-09ea781839c2@156.238.18.196:2083?encryption=none&security=tls&sni=vless.amclubss.us.kg&fp=randomized&type=ws&host=vless.amclubss.us.kg&path=%2F%3Fed%3D2560#%F0%9F%87%AF%F0%9F%87%B5%20JP
+vless://98caf934-d51f-47d3-89ec-09ea781839c2@103.160.204.40:8443?encryption=none&security=tls&sni=vless.amclubss.us.kg&fp=randomized&type=ws&host=vless.amclubss.us.kg&path=%2F%3Fed%3D2560#%F0%9F%87%AD%F0%9F%87%B0%20HK
+trojan://amclubs2024@156.238.18.220:8443?security=tls&sni=sub.trojan.amclubs.us.kg&fp=randomized&type=ws&host=sub.trojan.amclubs.us.kg&path=%2F%3Fed%3D2560#%F0%9F%87%AF%F0%9F%87%B5%20JP
+trojan://amclubs2024@104.17.68.85:443?security=tls&sni=sub.trojan.amclubs.us.kg&fp=randomized&type=ws&host=sub.trojan.amclubs.us.kg&path=%2F%3Fed%3D2560#%F0%9F%93%B6%20CF
+vless://98caf934-d51f-47d3-89ec-09ea781839c2@103.160.204.1:443?encryption=none&security=tls&sni=vless.amclubss.us.kg&fp=randomized&type=ws&host=vless.amclubss.us.kg&path=%2F%3Fed%3D2560#%F0%9F%87%AD%F0%9F%87%B0%20HK
+trojan://amclubs2024@154.83.2.200:443?security=tls&sni=sub.trojan.amclubs.us.kg&fp=randomized&type=ws&host=sub.trojan.amclubs.us.kg&path=%2F%3Fed%3D2560#%F0%9F%87%B8%F0%9F%87%AC%20SG
+trojan://amclubs2024@175.125.207.253:10085?security=tls&sni=sub.trojan.amclubs.us.kg&fp=randomized&type=ws&host=sub.trojan.amclubs.us.kg&path=%2F%3Fed%3D2560#%F0%9F%87%B0%F0%9F%87%B7%20KR
+vless://98caf934-d51f-47d3-89ec-09ea781839c2@154.83.2.125:2087?encryption=none&security=tls&sni=vless.amclubss.us.kg&fp=randomized&type=ws&host=vless.amclubss.us.kg&path=%2F%3Fed%3D2560#%F0%9F%87%B8%F0%9F%87%AC%20SG
+vless://98caf934-d51f-47d3-89ec-09ea781839c2@75.2.32.4:443?encryption=none&security=tls&sni=vless.amclubss.us.kg&fp=randomized&type=ws&host=vless.amclubss.us.kg&path=%2F%3Fed%3D2560#%F0%9F%93%B6%20CF
+trojan://amclubs2024@104.17.142.12:443?security=tls&sni=sub.trojan.amclubs.us.kg&fp=randomized&type=ws&host=sub.trojan.amclubs.us.kg&path=%2F%3Fed%3D2560#%F0%9F%93%B6%20CF
+vless://98caf934-d51f-47d3-89ec-09ea781839c2@icook.hk:443?encryption=none&security=tls&sni=vless.amclubss.us.kg&fp=randomized&type=ws&host=vless.amclubss.us.kg&path=%2F%3Fed%3D2560#t.me%2FAM_CLUBS%20%E5%8A%A0%E5%85%A5%E4%BA%A4%E6%B5%81%E7%BE%A4%E8%A7%A3%E9%94%81%E6%9B%B4%E5%A4%9A%E4%BC%98%E9%80%89%E8%8A%82%E7%82%B9
+trojan://amclubs2024@222.119.56.43:15812?security=tls&sni=sub.trojan.amclubs.us.kg&fp=randomized&type=ws&host=sub.trojan.amclubs.us.kg&path=%2F%3Fed%3D2560#%F0%9F%87%B0%F0%9F%87%B7%20KR
 https://hzhsub.szpengxuming.us.kg/8f40e165-c9db-478d-b761-f3c8509a0bee
 `
 
