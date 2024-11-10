@@ -13,18 +13,10 @@ let timestamp = 4102329600000;//2099-12-31
 //节点链接 + 订阅链接
 let MainData = `
 vless://02a7cc02-69c1-47dc-968b-ea34720ceec4@jp003.421421.xyz:20230?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.push.apple.com&fp=chrome&pbk=gKQ1iax36vjbOYLKLveiSn_OnlBVAf3ecHLpQnrC4jw&sid=a7464bff&type=tcp&headerType=none#%F0%9F%91%89www.85la.com%F0%9F%91%89%E6%97%A5%E6%9C%ACJP_9
-vless://8f40e165-c9db-478d-b761-f3c8509a0bee@www.visa.com.sg:8443?encryption=none&security=tls&sni=cfvt.szpengxuming.us.kg&fp=random&type=ws&host=cfvt.szpengxuming.us.kg&path=%2F%3Fed%3D2560#cfvt.szpengxuming.us.kg
+vless://8f40e165-c9db-478d-b761-f3c8509a0bee@104.19.71.57:8443?encryption=none&security=tls&sni=cfvt.szpengxuming.us.kg&fp=random&allowInsecure=1&type=ws&host=cfvt.szpengxuming.us.kg&path=%2F%3Fed%3D2560#cfvt.szpengxuming.us.kg
 vless://8f40e165-c9db-478d-b761-f3c8509a0bee@104.19.146.238:8443?encryption=none&security=tls&sni=cfvt.szpengxuming.us.kg&fp=random&type=ws&host=cfvt.szpengxuming.us.kg&path=%2F%3Fed%3D2560#cfvt.szpengxuming.us.kg-clone
-vless://8f40e165-c9db-478d-b761-f3c8509a0bee@bestip.szpengxuming.nyc.mn:443?encryption=none&security=tls&sni=hzhsub.szpengxuming.nyc.mn&alpn=http%2F1.1&fp=random&type=ws&host=hzhsub.szpengxuming.nyc.mn&path=%2F%3Fed%3D2560#SG%F0%9F%90%B2%E2%84%A2%EF%B8%8F%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91
-vless://8f40e165-c9db-478d-b761-f3c8509a0bee@bestip.szpengxuming.nyc.mn:443?encryption=none&security=tls&sni=hzhsub.szpengxuming.nyc.mn&alpn=http%2F1.1&fp=random&type=ws&host=hzhsub.szpengxuming.nyc.mn&path=%2F%3Fed%3D2560#JP%F0%9F%90%B2%E2%84%A2%EF%B8%8F%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91
-vless://8f40e165-c9db-478d-b761-f3c8509a0bee@bestip.szpengxuming.nyc.mn:443?encryption=none&security=tls&sni=hzhsub.szpengxuming.nyc.mn&alpn=http%2F1.1&fp=random&type=ws&host=hzhsub.szpengxuming.nyc.mn&path=%2F%3Fed%3D2560#US%F0%9F%90%B2%E2%84%A2%EF%B8%8F%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91
-vless://8f40e165-c9db-478d-b761-f3c8509a0bee@bestip.szpengxuming.nyc.mn:443?encryption=none&security=tls&sni=hzhsub.szpengxuming.nyc.mn&fp=random&type=ws&host=hzhsub.szpengxuming.nyc.mn&path=%2F%3Fed%3D2560#cloudflare.182682.xyz
-vless://8f40e165-c9db-478d-b761-f3c8509a0bee@bestip.szpengxuming.nyc.mn:443?encryption=none&security=tls&sni=3k.szpengxuming.nyc.mn&fp=randomized&type=ws&host=3k.szpengxuming.nyc.mn&path=%2F%3Fed%3D2048#3k.szpengxuming.nyc.mn-clone-clone
-vless://8f40e165-c9db-478d-b761-f3c8509a0bee@bestip.szpengxuming.us.kg:443?encryption=none&security=tls&sni=hzhsub.szpengxuming.nyc.mn&alpn=http%2F1.1&fp=random&type=ws&host=hzhsub.szpengxuming.nyc.mn&path=%2F%3Fed%3D2560#SG%F0%9F%90%B2%E2%84%A2%EF%B8%8F%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-clone
-vless://8f40e165-c9db-478d-b761-f3c8509a0bee@bestip.szpengxuming.us.kg:443?encryption=none&security=tls&sni=hzhsub.szpengxuming.nyc.mn&alpn=http%2F1.1&fp=random&type=ws&host=hzhsub.szpengxuming.nyc.mn&path=%2F%3Fed%3D2560#JP%F0%9F%90%B2%E2%84%A2%EF%B8%8F%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-clone
-vless://8f40e165-c9db-478d-b761-f3c8509a0bee@bestip.szpengxuming.us.kg:443?encryption=none&security=tls&sni=hzhsub.szpengxuming.nyc.mn&alpn=http%2F1.1&fp=random&type=ws&host=hzhsub.szpengxuming.nyc.mn&path=%2F%3Fed%3D2560#US%F0%9F%90%B2%E2%84%A2%EF%B8%8F%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-clone
-vless://8f40e165-c9db-478d-b761-f3c8509a0bee@bestip.szpengxuming.us.kg:443?encryption=none&security=tls&sni=hzhsub.szpengxuming.nyc.mn&fp=random&type=ws&host=hzhsub.szpengxuming.nyc.mn&path=%2F%3Fed%3D2560#cloudflare.182682.xyz-clone
-vless://8f40e165-c9db-478d-b761-f3c8509a0bee@bestip.szpengxuming.us.kg:443?encryption=none&security=tls&sni=3k.szpengxuming.nyc.mn&fp=randomized&type=ws&host=3k.szpengxuming.nyc.mn&path=%2F%3Fed%3D2048#3k.szpengxuming.nyc.mn-clone-clone-clone
+vless://8f40e165-c9db-478d-b761-f3c8509a0bee@www.visa.com.sg:8443?encryption=none&security=tls&sni=cfvt.szpengxuming.us.kg&fp=random&type=ws&host=cfvt.szpengxuming.us.kg&path=%2F%3Fed%3D2560#cfvt.szpengxuming.us.kg
+vless://8f40e165-c9db-478d-b761-f3c8509a0bee@127.0.0.1:1234?encryption=none&security=tls&sni=hzhsub.szpengxuming.us.kg&fp=random&type=ws&host=hzhsub.szpengxuming.us.kg&path=%2F%3Fed%3D2560#hk
 https://hzhsub.szpengxuming.us.kg/8f40e165-c9db-478d-b761-f3c8509a0bee
 `
 
