@@ -17,6 +17,11 @@ vless://8f40e165-c9db-478d-b761-f3c8509a0bee@104.19.71.57:8443?encryption=none&s
 vless://8f40e165-c9db-478d-b761-f3c8509a0bee@104.19.146.238:8443?encryption=none&security=tls&sni=cfvt.szpengxuming.us.kg&fp=random&type=ws&host=cfvt.szpengxuming.us.kg&path=%2F%3Fed%3D2560#cfvt.szpengxuming.us.kg-clone
 vless://8f40e165-c9db-478d-b761-f3c8509a0bee@www.visa.com.sg:8443?encryption=none&security=tls&sni=cfvt.szpengxuming.us.kg&fp=random&type=ws&host=cfvt.szpengxuming.us.kg&path=%2F%3Fed%3D2560#cfvt.szpengxuming.us.kg
 vless://8f40e165-c9db-478d-b761-f3c8509a0bee@127.0.0.1:1234?encryption=none&security=tls&sni=hzhsub.szpengxuming.us.kg&fp=random&type=ws&host=hzhsub.szpengxuming.us.kg&path=%2F%3Fed%3D2560#hk
+trojan://amclubs2024@162.159.133.85:443?security=tls&sni=sub.trojan.amclubs.us.kg&fp=randomized&type=ws&host=sub.trojan.amclubs.us.kg&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20US
+vless://98caf934-d51f-47d3-89ec-09ea781839c2@visa.cn:443?encryption=none&security=tls&sni=vless.amclubss.us.kg&fp=randomized&type=ws&host=vless.amclubss.us.kg&path=%2F%3Fed%3D2560#youtube.com%2F%40AM_CLUB%20%E8%AE%A2%E9%98%85%E9%A2%91%E9%81%93%E8%8E%B7%E5%8F%96%E6%9B%B4%E5%A4%9A%E6%95%99%E7%A8%8B
+trojan://amclubs2024@103.160.204.26:2053?security=tls&sni=sub.trojan.amclubs.us.kg&fp=randomized&type=ws&host=sub.trojan.amclubs.us.kg&path=%2F%3Fed%3D2560#%F0%9F%87%AD%F0%9F%87%B0%20HK
+vless://98caf934-d51f-47d3-89ec-09ea781839c2@104.17.128.1:2096?encryption=none&security=tls&sni=vless.amclubss.us.kg&fp=randomized&type=ws&host=vless.amclubss.us.kg&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20US
+trojan://amclubs2024@61.220.65.189:26832?security=tls&sni=sub.trojan.amclubs.us.kg&fp=randomized&type=ws&host=sub.trojan.amclubs.us.kg&path=%2F%3Fed%3D2560#%F0%9F%87%BC%F0%9F%87%B8%20TW
 https://hzhsub.szpengxuming.us.kg/8f40e165-c9db-478d-b761-f3c8509a0bee
 `
 
